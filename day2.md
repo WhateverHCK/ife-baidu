@@ -65,4 +65,5 @@
 ---
 
 * 阅读了[w3school]([http://www.w3school.com.cn/html/index.asp](http://www.w3school.com.cn/html/index.asp)) 里的基础教程及表单，大约3小时
-* 写简历任务大约20分钟
+* 写简历任务大约20分钟 [codepen](https://codepen.io/whateverhck/pen/mZENeo?editors=1010)
+
